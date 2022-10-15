@@ -17,7 +17,6 @@
   <a href="https://github.com/Fellippemfv/rocketseat-react-project-2/commits/master">
   	<img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/rocketseat-react-project-2">
   </a>
-
 </p>
 
 <p align="center">
