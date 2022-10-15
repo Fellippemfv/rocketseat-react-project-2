@@ -32,6 +32,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 -  [ReactJS](https://pt-br.reactjs.org)
 -  [ViteJS](https://vitejs.dev)
 -  [TypeScript](https://www.typescriptlang.org)
+-  [Eslint](https://eslint.org)
 
 ## :information_source: Como usar
 
