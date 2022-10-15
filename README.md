@@ -39,7 +39,7 @@ Para clonar e executar esta aplicação, você precisará do [Git](https://git-s
 
 ```bash
 # Clonar este repositório
-$ git clone https://github.com/Fellippemfv/rocketseat-react-project-2
+$ git clone https://github.com/Fellippemfv/rocketseat-react-project-2.git
 
 # Ir até a pasta criada
 $ cd rocketseat-react-project-2
