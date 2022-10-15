@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-    Segundo projeto de reactJS, desenvolvemos do zero um timer que segue a técnica de pomodoro, conseguimos iniciar, pausar e reiniciar  cronômetro
+    Segundo projeto de reactJS, desenvolvemos do zero um timer que segue a técnica de pomodoro, conseguimos iniciar, pausar e reiniciar o  cronômetro.
 </p>
 
 <p align="center">
@@ -16,10 +16,6 @@
   
   <a href="https://github.com/Fellippemfv/rocketseat-react-project-2/commits/master">
   	<img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/rocketseat-react-project-2">
-  </a>
-
-  <a href="https://github.com/Fellippemfv/rocketseat-react-project-1/blob/master/LICENSE">
-  	<img alt="GitHub/licens" src="https://img.shields.io/github/license/Fellippemfv/rocketseat-react-project-1">
   </a>
 
 </p>
@@ -56,10 +52,7 @@ $ npm install
 $ npm run dev
 
 # Clicar no link gerado pelo vite, você será redirecionado para uma nova aba em seu navegador padrão.
-
 ```
-
-
 ## :memo: Licença
 Este projeto está sob a licença do MIT. Veja o [LICENSE](https://github.com/Fellippemfv/rocketseat-react-project-2/blob/master/LICENSE.md) para mais informação.
 
