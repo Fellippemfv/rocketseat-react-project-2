@@ -1,12 +1,12 @@
 {
     "extends": "@rocketseat/eslint-config/react",
     "rules": {
-        "prettier/prettier": [
-            "error",
-            {
-                "endOfline": "auto"
-            }
-        ],
-        "no-unused-vars": "off"
+      "prettier/prettier":[
+        "error",
+        {
+          "endOfline": "auto"
+        }
+      ],
+      "no-unused-vars": "off"
     }
-}
+  }
