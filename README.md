@@ -18,8 +18,8 @@
   	<img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/rocketseat-react-project-2">
   </a>
 
-  <a href="https://github.com/Fellippemfv/rocketseat-react-project-2/blob/master/LICENSE">
-  	<img alt="GitHub/licens" src="https://img.shields.io/github/license/Fellippemfv/rocketseat-react-project-2">
+  <a href="https://github.com/Fellippemfv/rocketseat-react-project-1/blob/master/LICENSE">
+  	<img alt="GitHub/licens" src="https://img.shields.io/github/license/Fellippemfv/rocketseat-react-project-1">
   </a>
 
 </p>
@@ -48,6 +48,7 @@ $ git clone https://github.com/Fellippemfv/rocketseat-react-project-2
 
 # Ir até a pasta criada
 $ cd rocketseat-react-project-2
+
 # Instalar dependências
 $ npm install
 
@@ -60,6 +61,6 @@ $ npm run dev
 
 
 ## :memo: Licença
-Este projeto está sob a licença do MIT. Veja o [LICENSE](https://github.com/Fellippemfv/rocketseat-react-challange-1/blob/master/LICENSE.md) para mais informação.
+Este projeto está sob a licença do MIT. Veja o [LICENSE](https://github.com/Fellippemfv/rocketseat-react-project-2/blob/master/LICENSE.md) para mais informação.
 
 ---
