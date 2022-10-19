@@ -1,10 +1,10 @@
 <h1 align="center"> Projeto 02 - Ignite timer</h1>
 <h2 align="center">
-  <img alt="logo" title="logo" src="" />
+  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/196798439-694512a5-a187-4be2-a40b-f496521adb9a.png" />
 </h2>
 
 <p align="center">
-    Segundo projeto de reactJS, desenvolvemos do zero um timer que segue a técnica de pomodoro, conseguimos iniciar, pausar e reiniciar o  cronômetro.
+    Segundo projeto de reactJS, desenvolvemos do zero um timer que pode ser usado por exemplo para criar um ciclo de estudo, conseguimos iniciar e interromper o  cronômetro. Além disso, conseguimos observar o histórico de todos os ciclos já criados e inslusive mostrando seus status, podendo ser concluido, interrompido ou em andamento. Os dados são salvos no local storage, ou seja, podemos fechar ou atualizar o navegador que os dados do histórico continuaram aparecendo.
 </p>
 
 <p align="center">
