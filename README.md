@@ -4,7 +4,7 @@
 </h2>
 
 <p align="justify">
-    Segundo projeto de reactJS, desenvolvemos do zero um timer que pode ser usado por exemplo para criar um ciclo de estudo, conseguimos iniciar e interromper o  cronômetro. Além disso, conseguimos observar o histórico de todos os ciclos já criados e inslusive mostrando seus status, podendo ser concluido, interrompido ou em andamento. Os dados são salvos no local storage, ou seja, podemos fechar ou atualizar o navegador que os dados do histórico continuaram aparecendo.
+    Segundo projeto de reactJS, desenvolvemos do zero um timer que pode ser usado por exemplo para criar um ciclo de estudo, conseguimos iniciar e interromper o  cronômetro. Além disso, conseguimos observar o histórico de todos os ciclos já criados e inslusive mostrando seus status, podendo ser concluido, interrompido ou em andamento. Os dados são salvos no local storage, ou seja, podemos fechar ou atualizar o navegador que os dados do histórico continuarão aparecendo.
 </p>
 
 <p align="center">
